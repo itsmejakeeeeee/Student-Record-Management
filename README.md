@@ -18,5 +18,5 @@ A simple web-based student record management system built with Flask and MySQL, 
 
 # Link
 
-Github Link: https://github.com/itsmejakeeeeee/Student-Record-Management.git
-Github Zip Link: https://github.com/itsmejakeeeeee/Student-Record-Management/archive/refs/heads/main.zip
+- Github Link: https://github.com/itsmejakeeeeee/Student-Record-Management.git
+- Github Zip Link: https://github.com/itsmejakeeeeee/Student-Record-Management/archive/refs/heads/main.zip
